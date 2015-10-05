@@ -1,0 +1,16 @@
+    C:\Users\dbolivar\Desktop\Prueba Archivos\Duplicated                        <-----RESP----->
+    C:\Users\dbolivar\Desktop\Prueba Archivos\p2.......
+        LetterOutputFormat.java
+        LetterOutputFormat2.java
+        lettersEditor.jsp
+        pdfbox-1.8.10.jar
+        PdfTest.java
+        setDomainEnv.cmd
+        setStartupEnv.cmd
+        startWebLogic.cmd
+    C:\Users\dbolivar\Desktop\Prueba Archivos\p3.......
+        Doc4jAdvancedStrategy.java
+        fontbox-1.8.10.jar
+        icafe-jdk16.jar
+        LetterGenerator.java
+C:\Users\dbolivar\Desktop\Prueba Archivos\Duplicated
